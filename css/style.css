@@ -1,0 +1,13 @@
+/* Sample CSS styling of plugin content
+By Neil McWilliam */
+
+.quoteContent {
+	padding: 10px !important;
+	background-color: red !important;
+	color: #FFF !important;
+	text-align: center !important;
+	display: block !important;
+	border: 1px solid red !important;
+	margin: 12px !important; 
+	border-radius: 15px !important;
+}
